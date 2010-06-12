@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+  <field key="author" value="Kévin Dunglas" />
+  <field key="version" value="1.0" />
+  <field key="description" value="Facebook Link plugin" />
+  <field key="website" value="http://lapin-blanc.net/" />
+  <field key="licence" value="GNU Public License version 2" />
+  <field key="elgg_version" value="2009022701" />
+</plugin_manifest>

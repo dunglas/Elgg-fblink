@@ -1,0 +1,5 @@
+fblink: Link a Facebook and an Elgg account
+
+1. Go to Facebook and register your site as an app to obtain an API key and secret: http://www.facebook.com/developers/createapp.php
+2. Once you have created your app, under 'connect' you need to enter a Connect URL and Account preview URL - these will both be your Elgg site URL
+3. Enable the plugin, enter your api key and secret and you are ready to go
